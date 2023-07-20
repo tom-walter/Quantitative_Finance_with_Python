@@ -33,6 +33,10 @@ The course has the following sections:
 12. Black-Scholes Model
 13. Black-Scholes Implementation
 14. Value at Risk (VaR)
+<p align="center">
+<img src="images/normal_dist.png" width="200" height="200" />
+</p>
+
 15. Colleteralized Debt Obligations (CDOs)
 16. Interest Rate Modeling (Vasicek Model)
 <p align="center">
